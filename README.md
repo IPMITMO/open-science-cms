@@ -1,2 +1,2 @@
-# robotic-manipulation-system
-robotic-manipulation-system
+# Open Science CMS
+Open Science CMS
